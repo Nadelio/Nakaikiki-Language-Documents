@@ -93,7 +93,7 @@
 - pronounced "tye"
 
 `Ko`:
-- means cause/from/original
+- means cause/from/original/guilty/fault
 - pronounced "koh"
 
 `No`:
