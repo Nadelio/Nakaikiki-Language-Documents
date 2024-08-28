@@ -49,36 +49,56 @@
 - prounounced "dough"
 
 `Du`:
-- means you, your, you're, their, theirs, it, they
+- means you, your, you're, their, theirs, it, or they
 - there are no gender pronouns in `Nakaikiki`, so use this letter regardless of a person's gender, when talking about/to them
 - pronounced "doo"
 
 `Ha`:
-- Unfinished
+- means body, piece, or part
+- pronounced "hah"
 
 `Hu`:
-- Unfinished
+- means top, above, high, or height
+- pronounced "who"
 
 `So`:
-- Unfinished
+- means soft, squishy, or smooth
+- can be used for both describing texture and more abstract words, including people
+- pronounced "soh"
 
 `Shi`:
-- Unfinished
+- means happy, positive, good, healthy, energy, or like
+- pronounced "she"
 
 `Po`:
-- Unfinished
+- means get, want, need, or obtain
+- pronounced "poh"
 
 `Sh`:
-- Unfinished
+- means look, see, or sight
+- pronounced "shuh"
 
 `Ra`:
-- Unfinished
+- means right, side, or offset
+- to make the word "left", use `Na` and `Ra` together: `Nara`
+- pronounced "rah"
 
 `Fo`:
-- Unfinished
+- means forward, go, or move
+- can use `Na` to make this mean "stop" or "backward": `Nafo`
+- pronounced "foe"
 
 `Ti`:
-- Unfinished
+- means time, current, sudden(ly), day
+- pronounced "tye"
+
+`Ko`:
+- means cause/from/original
+- pronounced "koh"
+
+`No`:
+- *Currently meaningless*
+- pronounced "noh"
 
 ## Numbers
 `Nabe`: 0 (Nah-beh)\
