@@ -5,9 +5,11 @@
 - Letters have less influence on the meaning of the word as they get farther from the beginning of the word
 - The most important letter in a word is called the `Kaila` and is *always* capitalized
 - Grammar letters are always more important than regular letters
-- Grammar letters are at the beginning of a word
 - Grammar letters are never a `Kaila`
 - Grammar letter always pass `Kaila` on to the following letter
+- `Y` is only in a word *once*
+- `Y` is always at the beginning of a word
+- `Na`, `No`, and `To` are required to be at the beginning of words or subwords (like when multiple words are put together to form a singular word)
 
 ## Order Rule:
 - Specific letters will mean different things based on their order in a word
