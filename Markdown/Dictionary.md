@@ -6,10 +6,6 @@
     - `Y dudo naposhi?` -> "Are you awake sir/ma'am?"
     - `Dudo naposhi?` -> "Are you awake?"
 
-- `Yag`:
-  - "Welcome", "hello"
-  - Used as a formal greeting to someone you respect or is superior to you
-
 ## `Kai`)
 - `Kai`:
   - "Large", "big", "grand", "pride", "strong", "many", "long"
@@ -17,10 +13,7 @@
 - `Kaiki`:
   - "World", "Earth", "us", "planet"
 
-- `Kaishi`:
-  - "Love"
-
-- `Kai-hara`:
+- `Kaihara`:
   - "Strong-arming", "strong arm"
 
 - `Kaihu`:
@@ -81,6 +74,12 @@
   - "Agree", "yes", "true", "same", "as well"
   - is commonly used to agree or as a excited exclaimation
   - can be used to emphasize a word or phrase in a positive manner
+    
+- `Toshi`:
+  - "Love"
+    
+- `Toshiha`:
+  - "Lover", "Partner", "Spouse"
 
 ## `Ki`)
 - `Ag ag ag!` : "To Be Added!"
