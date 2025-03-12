@@ -87,7 +87,7 @@
 
 `Ti`:
 - means time, current, sudden(ly), day
-- pronounced `/taɪ/`
+- pronounced `/ti/`
 
 `Ko`:
 - means cause/from/original/guilty/fault
